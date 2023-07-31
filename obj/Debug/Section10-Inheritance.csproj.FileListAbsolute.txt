@@ -1,0 +1,8 @@
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\bin\Debug\Section10-Inheritance.exe.config
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\bin\Debug\Section10-Inheritance.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\bin\Debug\Section10-Inheritance.pdb
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\obj\Debug\Section10-Inheritance.csproj.AssemblyReference.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\obj\Debug\Section10-Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\obj\Debug\Section10-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\obj\Debug\Section10-Inheritance.exe
+C:\Users\bonam\OneDrive\Desktop\Basicapp\AssistedProject\Section10-Inheritance\Section10-Inheritance\obj\Debug\Section10-Inheritance.pdb
